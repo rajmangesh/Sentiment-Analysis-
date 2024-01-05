@@ -1,4 +1,6 @@
-# Sentiment-Analysis-
+# Sentiment-Analysis-Of-Customer_Review
+
+![Screenshot 2024-01-05 145824](https://github.com/rajmangesh/Sentiment-Analysis-/assets/95671470/c2bfb807-3b15-4de0-a974-508b659396c9)
 
 
 The Project explores sentiment analysis on Amazon reviews data. It first loads a sample of 500 reviews into a Pandas dataframe. Some exploratory data analysis is done by plotting the distribution of review scores and examining some sample reviews.
